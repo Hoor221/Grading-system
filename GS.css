@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-content: center;
+}
+body {
+    background-attachment: fixed;
+    background-image: url(bluebook.jpg );  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.glassBlue{
+    background-color:rgba(120, 162, 229, 0.5);
+}
+.backopa{
+    margin-top: 10px;
+}
+
+.table tbody{
+  margin: 5vh;
+  width:10vh;
+  height: 5vh;
+  font-size: larger;
+}
+input{
+    border: none;
+    border-radius: 2vh;
+    width: 50%;
+    height: 7vh;
+
+}
+label{
+    font-size: 30px;
+    
+}
+button{
+    width:50%;
+    height:10vh;
+    font-weight: 700;
+   
+}
+button a{
+
+    text-decoration: none;
+    color: aliceblue;
+
+}
